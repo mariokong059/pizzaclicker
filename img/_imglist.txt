@@ -209,7 +209,7 @@ http://orteil.dashnet.org/cookieclicker/img/panelVertical.png
 http://orteil.dashnet.org/cookieclicker/img/pantheonBG.png
 http://orteil.dashnet.org/cookieclicker/img/parade.png
 http://orteil.dashnet.org/cookieclicker/img/patreon.png
-http://orteil.dashnet.org/cookieclicker/img/perfectCookie.png
+http://mariokong059.github.io/pizzaclicker/pizza.png
 http://orteil.dashnet.org/cookieclicker/img/pieFill.png
 http://orteil.dashnet.org/cookieclicker/img/playsaurusLogo.png
 http://orteil.dashnet.org/cookieclicker/img/playsaurusbanner1.png
